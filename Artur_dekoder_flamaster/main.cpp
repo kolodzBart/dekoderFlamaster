@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdlib>
+#include <windows.h>
 
 std::string rozwijanieWyrazow(const std::string &wyrazRozwijany) {
     int dlugosc = wyrazRozwijany.length();
