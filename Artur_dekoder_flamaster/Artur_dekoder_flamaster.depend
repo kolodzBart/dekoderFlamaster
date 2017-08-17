@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502444102 source:f:\zostan programista\c++\wyzwaniaartura\polski spoj (2 czesc)\artur_dekoder_flamaster\main.cpp
+	<iostream>
+	<cstdlib>
+
